@@ -1,7 +1,6 @@
 ### Hello, I'm Vitor Augusto 👋
 
 **About me**
-
 - 💼 Trainee
 - 💻 I am pursuing a degree in Analysis and Systems Development
 
