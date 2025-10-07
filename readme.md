@@ -2,7 +2,7 @@
 
 *About Me:*
 
-💼 Trainee / Junior Developer (coding since November 2024)
+💼 Trainee / Junior Developer (coding since 2024)
 
 🎓 Currently pursuing a Bachelor’s degree in Computer Science
 
