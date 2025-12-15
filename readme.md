@@ -27,5 +27,5 @@
 <h3>Stats</h3>
 
 <a href="https://github.com/vitzero">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitzero&layout=compact&langs_count=10&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitzero&layout=compact&langs_count=10&theme=tokyonight"/>
 </a>
