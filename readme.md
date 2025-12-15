@@ -1,11 +1,10 @@
-### Hello, I'm Vitor Augusto 👋
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF0000&color:FFF)](mailto:vitor.baldasso05@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF0000&color:FFF)](https://www.linkedin.com/in/vitorabaldasso/)
 
-*About Me:*
+<h3>stats</h3>
 
-💼 Software Developer - Coding since 2024
-
-🎓 Currently pursuing a Bachelor’s degree in Computer Science
-
-💻 Professional experience with C#, .NET, ASP.NET, VB.NET, React, Javascript, Typescript, PostgreSQL and SQL Server
-
-![Vitzero's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vitzero&theme=dark&langs_count=100&layout=compact&hide_border=true&card_width=500&hide_title=true)
+<a href="https://github.com/vitzero">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitzero&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitzero&layout=compact&langs_count=10&theme=tokyonight"/>
+</a>
+<br>
