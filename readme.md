@@ -3,9 +3,29 @@
 
 <h2>Hello, I'm Vitor Augusto, a Computer Science student and .NET Developer</h2>
 
+<h3 align="left">my tech stack</h3>
+
+<div align="left">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" height="30" alt="csharp logo" />
+  <img width="8" />
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" height="30" alt="asp.net logo" />
+  <img width="8" />
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" height="30" alt="react logo" />
+  <img width="8" />
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
+  <img width="8" />
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" height="35" alt="postgresql logo" />
+  <img width="8" />
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="35" alt="sql server logo" />
+</div>
+
 <h3>Stats</h3>
 
 <a href="https://github.com/vitzero">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=vitzero&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitzero&layout=compact&langs_count=10&theme=tokyonight"/>
 </a>
