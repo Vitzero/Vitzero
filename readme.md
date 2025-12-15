@@ -29,4 +29,5 @@
 <img 
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitzero&layout=compact&langs_count=10&theme=tokyonight"
   width="100%"
+  height="180"
 />
