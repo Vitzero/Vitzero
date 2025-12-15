@@ -26,8 +26,4 @@
 
 <h3>Stats</h3>
 
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitzero&layout=compact&langs_count=10&theme=tokyonight"
-  width="100%"
-  height="180"
-/>
+![Vitzero's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vitzero&theme=tokyonight&langs_count=100&layout=compact&hide_border=true&card_width=500&hide_title=true)
