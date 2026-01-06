@@ -1,7 +1,9 @@
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF0000&color=FFF)](mailto:vitor.baldasso05@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF0000&color=FFF)](https://www.linkedin.com/in/vitorabaldasso/)
 
-<h2>Hello, I'm Vitor Augusto, a professional .NET Developer and Computer Science student</h2>
+<h2>Hello, I'm Vitor Augusto</h2>
+
+<p>I'm a Computer Science student and .NET Developer who has been programming since 2024, mainly working with .NET technologies.</p>
 
 <h3 align="left">my tech stack</h3>
 
