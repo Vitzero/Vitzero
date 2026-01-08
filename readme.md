@@ -25,7 +25,7 @@
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="35" alt="sql server logo" />
 
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="30" alt="C logo" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" height="30" alt="c logo" />
   <img width="8" />
 
 </div>
