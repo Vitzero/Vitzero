@@ -25,9 +25,9 @@
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="35" alt="sql server logo" />
 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" height="30" alt="c logo" />
-  <img width="8" />
-  
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" height="30" alt="C logo" />
+ <img width="8" />
+
 </div>
 
 <h3>Stats</h3>
