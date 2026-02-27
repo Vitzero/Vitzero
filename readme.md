@@ -3,32 +3,28 @@
 
 <h2>Hello, I'm Vitor Augusto</h2>
 
-<p>I'm a Computer Science student and .NET Developer who has been programming since 2024, mainly working with .NET technologies.</p>
+## 💻 Junior Full Stack Developer (.NET & React) | Computer Science Student
 
-<h3 align="left">my tech stack</h3>
+## 🛠 Tech Stack
 
-<div align="left">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" height="30" alt="csharp logo" />
-  <img width="8" />
+**Backend**
+- C#
+- ASP.NET Core
+- Entity Framework Core
+- RESTful API
 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" height="30" alt="asp.net logo" />
-  <img width="8" />
+**Frontend**
+- React.js
+- JavaScript
+- Axios
+- React Router
 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" height="30" alt="react logo" />
-  <img width="8" />
+**Database**
+- SQL Server
+- PostgreSQL
 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-  <img width="8" />
-
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" height="35" alt="postgresql logo" />
-  <img width="8" />
-
-  <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="35" alt="sql server logo" />
-
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" height="30" alt="c logo" />
-  <img width="8" />
-
-</div>
+**Others**
+- Git & GitHub
 
 <h3>Stats</h3>
 
