@@ -12,7 +12,7 @@
 - RESTful API
 
 **Frontend**
-- React.js
+- React
 - JavaScript
 - Axios
 - React Router
