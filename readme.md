@@ -11,6 +11,7 @@
 - C#
 - ASP.NET Core
 - Entity Framework Core
+- Dapper
 - RESTful API
 
 **Frontend**
