@@ -3,6 +3,8 @@
 
 ## 💻 Junior Full Stack Developer (.NET & React) | Computer Science Student
 
+- Working as a software developer since 2024
+
 ## 🛠 Tech Stack
 
 **Backend**
