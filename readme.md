@@ -4,7 +4,7 @@
 ## 💻 Junior Full Stack Developer | Computer Science Student
 - .NET & React Developer
 - Based in Brazil
-- 🇮🇹 Italian citizenship (eligible to work in the EU)
+- Italian citizenship (eligible to work in the EU)
 - Working as a software developer since 2024
 
 ## 🛠 Tech Stack
